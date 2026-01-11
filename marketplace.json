@@ -1,0 +1,12 @@
+{
+  "name": "Shared KB Commands",
+  "description": "Slash commands for Shared Knowledge Base initialization and management",
+  "plugins": [
+    {
+      "name": "shared-kb-commands",
+      "description": "Slash commands for Shared Knowledge Base initialization and management",
+      "version": "1.0.0",
+      "path": "shared-kb-commands"
+    }
+  ]
+}
