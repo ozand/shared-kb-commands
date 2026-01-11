@@ -1,11 +1,7 @@
 ---
-allowed-tools: Bash(git *), Bash(python *)
+allowed-tools: Bash
 description: Update Shared Knowledge Base to the latest version
 ---
-
-## Context
-- Current directory: !`pwd`
-- KB status: !`git -C .kb/shared log -1 --oneline`
 
 ## Your task
 Update Shared Knowledge Base in this project:

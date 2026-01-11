@@ -1,11 +1,7 @@
 ---
-allowed-tools: Bash(git *), Bash(python *)
+allowed-tools: Bash
 description: Check Shared Knowledge Base status and available updates
 ---
-
-## Context
-- Current directory: !`pwd`
-- KB exists: !`test -d .kb/shared && echo "yes" || echo "no"`
 
 ## Your task
 Check Shared Knowledge Base status in this project:

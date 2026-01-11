@@ -1,12 +1,7 @@
 ---
-allowed-tools: Bash(git *), Bash(mkdir *), Read, Write, Edit
+allowed-tools: Bash, Read, Write, Edit
 description: Initialize Shared Knowledge Base in the current project
 ---
-
-## Context
-- Current directory: !`pwd`
-- Git repository status: !`git status`
-- Current user: !`whoami`
 
 ## Your task
 Initialize Shared Knowledge Base in this project by following these steps:
